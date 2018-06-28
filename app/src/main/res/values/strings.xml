@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Udacity Quiz App</string>
+    <string name="enter_name">Enter Name</string>
+    <!--First Question-->
+    <string name="first_question">Q1: What name was given to the soldiers who protected Roman emperors?</string>Praetorian Guard
+    <!--Second Question-->
+    <string name="second_question">Q2: Which two metals is pewter made from?</string> Tin and lead.
+    <!--Third Question-->
+    <string name="third_question">Q3: What was Louis Armstrong\'s chosen form of music?</string> Jazz.
+    <!--Fourth Question-->
+    <string name="fourth_question">Q4: Name the port of Rome.</string> Ostia.
+    <!--Fifth Question-->
+    <string name="fifth_question">Q5: Paul Newman ate fifty eggs in which film?</string> Cool Hand Luke.
+    <!--Sixth Question-->
+    <string name="sixth_question">Q6: Books by Arthur Conan Doyle includes </string> Sherlocke Holmes, A Study in Scarlet, The Hound of the Baskervilles, Don Quixote.
+    <!--Seventh Question-->
+    <string name="seventh_question">Q7: Which cities does the River Lagan flow through?</string> Dunmury, Dublin, Ballyhanich, Belfast.
+    <!--Eight Question-->
+    <string name="eight_question">Q8: Who sang about being an eggman and a walrus?</string> The Beatles.
+
+
+    <!--Options-->
+    <!--Question1-->
+    <string name="option11">Roman Guard</string>
+    <string name="option12">Venician Guard</string>
+    <string name="option13">Praetorian Guard</string>
+    <string name="option14">Guard del la emperor</string>
+
+
+    <!--Question2-->
+    <string name="option21">Tin</string>
+    <string name="option22">Copper</string>
+    <string name="option23">Lead</string>
+   <string name="option24">Gold</string>
+
+    <!--Question3-->
+    <string name="option31">Rock</string>
+    <string name="option32">Metal</string>
+    <string name="option33">Classical</string>
+    <string name="option34">Jazz</string>
+
+    <!--Question4-->
+    <string name="option41">Ostia</string>
+    <string name="option42">Venice</string>
+    <string name="option43">Rossi</string>
+    <string name="option44">Maxigne</string>
+
+
+    <!--Question5-->
+    <string name="option51">Cool Hand Luke</string>
+    <string name="option52">Left Leg Duke</string>
+    <string name="option53">Major Hand Tom</string>
+    <string name="option54">Jasmone</string>
+
+    <!--Question6-->
+    <string name="option61">Sherlocke Holmes</string>
+    <string name="option62">Don Quixote</string>
+    <string name="option63">The Hound of the Baskervilles</string>
+    <string name="option64">A Study in Scarlet</string>
+
+
+    <!--Question7-->
+    <string name="option71">Dublin</string>
+    <string name="option72">Dunmury</string>
+    <string name="option73">Ballyhanich</string>
+    <string name="option74">Belfast</string>
+
+    <!--Question8-->
+    <string name="option81">AC/DC</string>
+    <string name="option82">The Beatles</string>
+    <string name="option83">Led Zeppelin</string>
+    <string name="option84">Al Quinteno</string>
+
+    <!--Buttons-->
+
+    <string name="submit">Submit</string>
+
+    </resources>
